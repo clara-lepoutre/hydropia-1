@@ -8,6 +8,9 @@
 @import url("components/top-page.css");
 @import url("components/bottom-page.css");
 @import url("components/recipes.css");
+@import url("components/card.css");
+@import url("components/explanations.css");
+@import url("components/reviews.css");
 
 
 body{
