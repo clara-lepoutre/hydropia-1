@@ -2,22 +2,20 @@
 
 
 @import url("components/banner.css");
+@import url("components/card.css");
 @import url("components/btn-green.css");
-@import url("components/container.css");
+@import url("components/explanations.css");
+@import url("components/reviews.css");
 @import url("components/categories.css");
 @import url("components/top-page.css");
 @import url("components/bottom-page.css");
-@import url("components/recipes.css");
-@import url("components/card.css");
-@import url("components/explanations.css");
-@import url("components/reviews.css");
+@import url("components/container.css");
 
 
 body{
   font-family: 'Lora', serif;
   font-size: 18px;
   margin: 0px;
-  text-align: center;
 }
 
 h1,h2,h3 {
