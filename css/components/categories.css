@@ -12,9 +12,9 @@
 	list-style: none;
 	color: #A77F62;
 	justify-content: space-between;
-	margin: 15px;
+	margin: 16px;
 	font-family: 'Roboto', sans-serif;
-	font-size: 10px;
+	font-size: 18px;
 }
 
 
@@ -28,5 +28,4 @@
 #logo{
 	float: left;
 }
-
 
