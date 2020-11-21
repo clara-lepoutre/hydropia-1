@@ -10,12 +10,15 @@
 @import url("components/categories.css");
 @import url("components/top-page.css");
 @import url("components/bottom-page.css");
-
+@import url("components/text-information.css");
+@import url("components/vegetables.css");
+@import url("components/recipes.css");
 
 body{
   font-family: 'Lora', serif;
   font-size: 18px;
   margin: 0px;
+  text-align: center;
 }
 
 h1,h2,h3 {
@@ -27,6 +30,10 @@ h1,h2{
 }
 a{
   text-decoration: none;
+
+p{
+	font-family: 'Roboto', serif;
+	font-size: 18px;
 }
 
 
