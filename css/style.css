@@ -4,7 +4,6 @@
 @import url("components/banner.css");
 @import url("components/card.css");
 @import url("components/btn-green.css");
-@import url("components/container.css");
 @import url("components/explanations.css");
 @import url("components/reviews.css");
 @import url("components/categories.css");
@@ -13,7 +12,7 @@
 @import url("components/text-information.css");
 @import url("components/vegetables.css");
 @import url("components/recipes.css");
-
+@import url("components/container.css");
 
 body{
   font-family: 'Lora', serif;
