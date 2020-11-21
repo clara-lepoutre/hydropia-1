@@ -2,8 +2,6 @@
 	background-color: #A77F62;
 	padding: 10px;
 	margin: 20px 0px;
-	max-width: 100%;
-	height: 300px;
 }
 
 .titles-bottom{
@@ -12,8 +10,7 @@
 	text-align: center;
 	list-style: none;
 	color: white;
-	pointer-events: none;
-	margin: 50px;
+	padding-left: 80px;
 }	
 
 .icons-bottom{
@@ -21,8 +18,7 @@
 	text-align: center;
 	list-style: none;
 	color: white;
-	margin: 90px;
-	pointer-events: none;
+	padding-left: 150px;
 }
 
 .bottom-page h3{
