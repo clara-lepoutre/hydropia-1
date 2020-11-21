@@ -14,6 +14,7 @@
 @import url("components/recipes.css");
 @import url("components/container.css");
 
+
 body{
   font-family: 'Lora', serif;
   font-size: 18px;
@@ -32,7 +33,6 @@ h1,h2{
 a{
   text-decoration: none;
 }
-
 
 
 
