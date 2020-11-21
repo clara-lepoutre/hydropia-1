@@ -1,0 +1,45 @@
+
+
+.text-information {
+	padding-top: 40px;
+    padding-bottom: 40px;
+    overflow: hidden;
+    margin: 40px;
+}
+
+.text-information img {
+    margin-right: 40px;
+	float: left;
+	width: 50%;
+}
+
+.text-information h3,
+.text-information p{
+    display: block;
+	margin: auto;
+	text-align: left;
+}
+
+.core-information h2,
+.core-information h3{
+	text-align:left;
+	margin-left: 40px;
+}
+
+.text-information2 {
+    padding: 40px;
+    overflow: hidden;
+}
+
+.text-information2 img {
+    margin-right: 40px;
+	float: left;
+	width: 15%;
+}
+
+.text-information2 h3,
+.text-information2 p{
+    margin-left: auto
+    display: block;
+	text-align: left;
+}
