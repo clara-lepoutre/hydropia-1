@@ -3,6 +3,7 @@
 	margin-top: 10px;
 	vertical-align: middle;
 	padding-inline-start: 0px;
+	display: justify;
 	display: flex;
 
 }
@@ -12,17 +13,16 @@
 	list-style: none;
 	color: #A77F62;
 	justify-content: space-between;
-	margin: 16px;
+	margin: 30px;
 	font-family: 'Roboto', sans-serif;
-	font-size: 18px;
+	font-size: 20px;
 }
 
 
 #cart{
 	height: 40px;
 	width: 40px;
-	position: absolute;
-	right: 15px;
+	float: right;
 }
 
 #logo{
