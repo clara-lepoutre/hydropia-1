@@ -14,6 +14,7 @@
 @import url("components/vegetables.css");
 @import url("components/recipes.css");
 
+
 body{
   font-family: 'Lora', serif;
   font-size: 18px;
@@ -23,6 +24,7 @@ body{
 
 h1,h2,h3 {
   font-family: 'Roboto', sans-serif;
+  text-align: center;
 }
 
 h1,h2{
@@ -30,19 +32,7 @@ h1,h2{
 }
 a{
   text-decoration: none;
-
-p{
-	font-family: 'Roboto', serif;
-	font-size: 18px;
 }
-
-
-
-
-
-
-
-
 
 
 
