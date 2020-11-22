@@ -1,11 +1,11 @@
-.cards {
+.cards-basket{
 	display: inline;
 	flex-wrap: wrap;
 	text-align: center;
 }
 
 
-.card{
+.card-basket{
 	padding: 20px;
 	/*display: flex;*/
 	align-items: center;
@@ -17,7 +17,7 @@
 	flex-grow: 1;
 }
 
-.card img{
+.card-basket img{
 	width: 200px;
 	height: 200px;
 	border-radius: 3px;
@@ -27,8 +27,3 @@
 .btn-add-to-cart{
 	padding-bottom: 30px;
 }
-
-
-
-
-==> To change: card (changer nom class + texte ci-dessous dedans) + html
