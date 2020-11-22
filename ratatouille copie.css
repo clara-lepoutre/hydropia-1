@@ -1,0 +1,168 @@
+
+.recipe{
+	margin: 50px;
+	height: 350px;
+}
+
+.Card-recipe {
+	width: 300px ;
+	margin: 15px;
+	text-align: left;
+}
+
+.Card-recipe h2{
+	margin:15px;
+}
+
+.img-circle{
+	border-radius: 50%;
+	margin: 15px;
+}
+
+.info-chef{
+	width: 400px;
+	margin:15px;
+	display: flex;
+	margin-top: 30px;
+}
+
+.info-chef a{
+	font-size: 12px;
+	position:absolute; 
+	left: 145px;
+	top: 755px;
+}
+
+.img-ratatouille{
+	margin: 50px;
+	position: absolute;
+	right: 80px;
+	top: 580px;
+	
+}
+
+
+.info{
+	width:550px;
+	margin: 15px ;
+	word-spacing: 60px;
+	text-align: justify;
+	margin-top: 60px;
+}
+
+
+
+.content{
+	text-align: center;
+	display: flex;
+	margin:50px;
+}
+
+
+.ingredients{
+	width:300px;
+	margin:50px;
+	height: 300px;
+	background-color: #A77F62;
+	text-align: left;
+	font-weight: lighter;
+	list-style-position: inside;
+	list-style-type:none;
+	color: white;
+	margin-top: 220px;
+
+}
+
+
+.method{
+	width: 700px;
+	margin: 50px;
+	text-align: right;
+	text-align: justify;
+}
+
+
+
+.banner2{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 75%, rgba(0,0,0,0.4) 75%) , url(../../images/banner.jpeg);
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	height: 100px; 
+}
+	
+
+
+.button-green{
+	background-color: #6BAD61;
+	color:white;
+	padding:15px 70px;
+	border-radius: 2px;
+	font-weight: bold;
+	font-family: 'roboto', sans-serif;
+	font-size:16px;
+}
+.button-green:hover{
+	background-color: #A77F62;
+	color:white;
+}
+
+
+
+
+
+.other-recipes{
+	text-align: center;
+	margin: 50px;
+}
+
+.other-recipe{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	margin: 50px;
+}
+
+
+.recipes{
+	width: 390px;
+	text-align: center;
+}
+
+
+.recipes img{
+	width: 250px;
+	height: 300px;
+	margin: 30px auto;
+}
+
+/*.desc{
+	padding-top: 0px;
+}*/
+
+
+/*.desc a{
+	color: #A77F62;
+}
+
+.desc p{
+	text-align: center;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
